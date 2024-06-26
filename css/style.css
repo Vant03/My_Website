@@ -1,0 +1,40 @@
+h1 { 
+    text-align: center;
+}
+
+ul.tab_list {
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+}
+  
+ul li{
+    display: inline;
+    border: dashed 3px rgb(231, 157, 46);
+    background-color: rgb(218, 215, 215);
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+p.biggerfont {
+    font-size: 21px;
+}
+
+img {
+    float:left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
